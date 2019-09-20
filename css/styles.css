@@ -1,0 +1,56 @@
+body{
+  position: relative;
+  opacity: 0.85;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.rounded-corners {
+    border-radius: 50%;
+  }
+.profilepicture{
+    color: white;
+}
+.aside{
+    color: white;    
+}
+.aboutme{
+    color: white;
+}
+.page-header{
+    text-align: center;
+    color: black;
+}
+.navigation-bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    display: block;
+    color: red;
+}
+section {
+    margin: 1rem;
+    padding: 2rem;
+    background-color: red;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  .video {
+    width: 100%;
+    background-color: red;
+  }
+  .linkedin{
+    color: white;
+  }
+  .github{
+    color:white;
+  }
+  .footer{
+    color: white;
+  }
